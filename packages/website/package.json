@@ -68,7 +68,7 @@
     "tsx": "*",
     "unified": "^11.0.4",
     "vfile": "^6.0.1",
-    "webpack": "^5.91.0"
+    "webpack": "^5.94.0"
   },
   "browserslist": {
     "production": [
