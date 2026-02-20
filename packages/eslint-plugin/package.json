@@ -76,7 +76,7 @@
     "@types/natural-compare": "*",
     "@typescript-eslint/rule-schema-to-typescript-types": "7.15.0",
     "@typescript-eslint/rule-tester": "7.15.0",
-    "ajv": "^6.12.6",
+    "ajv": "^8.18.0",
     "cross-env": "^7.0.3",
     "cross-fetch": "*",
     "eslint": "*",

@@ -50,7 +50,7 @@
   "dependencies": {
     "@typescript-eslint/typescript-estree": "7.15.0",
     "@typescript-eslint/utils": "7.15.0",
-    "ajv": "^6.12.6",
+    "ajv": "^8.18.0",
     "json-stable-stringify-without-jsonify": "^1.0.1",
     "lodash.merge": "4.6.2",
     "semver": "^7.6.0"
